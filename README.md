@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hello World! I`m Ahmed Reffat</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🚀 About Me:
-  [A Software engineer eager to contribute to the team's success. Attention to detail and excellent Organizational skills. Clear understanding of fundamental of software design, development, testing, and Maintenance. Motivated to lead, grow and excel in the tech industry.](A Software engineer eager to contribute to the team's success. Attention to detail and excellent Organizational skills. Clear understanding of fundamental of software design, development, testing, and Maintenance. Motivated to lead, grow and excel in the tech industry.)
+<h3>🚀 About Me:</h3>
+  A Software engineer eager to contribute to the team's success. Attention to detail and excellent Organizational skills. Clear understanding of fundamental of software design,
+  development, testing, and Maintenance. Motivated to lead, grow and excel in the tech industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
