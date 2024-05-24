@@ -39,6 +39,13 @@
 
 - 📄 Know about my experiences [Resume](https://spontaneous-maamoul-f8c61b.netlify.app/)
 
+<h3>💻 Projects:</h3>
+<ul>
+  <li><strong>Menu Prototype :</strong> (Components, props, JSX). [Link](https://peaceful-monstera-636770.netlify.app/), [GitHub Repo](https://github.com/AhmedRefaat00/menu-prototype</li>
+  <li><strong>Project 2:</strong> Description of project 2. [GitHub Repo](https://github.com/ahmedrefaat00/project2)</li>
+  <li><strong>Project 3:</strong> Description of project 3. [GitHub Repo](https://github.com/ahmedrefaat00/project3)</li>
+</ul>
+
 <hr/>
 <div>
 <h3 align="left">Languages and Tools:</h3>
