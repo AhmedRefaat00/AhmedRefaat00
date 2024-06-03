@@ -42,7 +42,7 @@
 <h3>💻 Projects:</h3>
 <ul>
   <li><strong>Menu Prototype :</strong> (Components, props, JSX).<a href='https://peaceful-monstera-636770.netlify.app/'> Link </a></li>
-  <li><strong>Project 2:</strong> Description of project 2. [GitHub Repo](https://github.com/ahmedrefaat00/project2)</li>
+  <li><strong>Project 2:</strong> Description of project 2. https://todo-list-app00ahmedrefaat.netlify.app</li>
   <li><strong>Project 3:</strong> Description of project 3. [GitHub Repo](https://github.com/ahmedrefaat00/project3)</li>
 </ul>
 
