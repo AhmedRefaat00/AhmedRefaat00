@@ -15,6 +15,7 @@
 
 <h3>💻 Projects:</h3>
 <ul>
+  <li><strong>popcorn :</strong> (useEffect, data fetching, custom hooks).<a href='https://classy-weather.netlify.app/'> IMDB POPcorn </a></li>
   <li><strong>Menu Prototype :</strong> (Components, props, JSX).<a href='https://peaceful-monstera-636770.netlify.app/'> Link </a></li>
   <li><strong>Far Away Packing List Application:</strong> (useState and state management). https://todo-list-app00ahmedrefaat.netlify.app</li>
   <li><strong>Weather App</strong>  (useEffect, useState).(https://bright-malabi-83c37f.netlify.app/)</li>
