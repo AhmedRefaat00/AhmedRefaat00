@@ -12,6 +12,7 @@ I am a passionate Software Engineer dedicated to driving team success through in
 
 ## 💻 Projects
 Here are some of the projects I've worked on:
+- **The React Quiz App**: (useReducer,useEffect). [The React Quiz App](https://ahmedrefaat00ar-the-react-quiz.netlify.app/)
 - **Popcorn**: (useEffect, data fetching, custom hooks). [IMDB Popcorn](https://classy-weather.netlify.app/)
 - **Menu Prototype**: (Components, props, JSX). [Link](https://peaceful-monstera-636770.netlify.app/)
 - **Far Away Packing List Application**: (useState and state management). [Link](https://todo-list-app00ahmedrefaat.netlify.app)
