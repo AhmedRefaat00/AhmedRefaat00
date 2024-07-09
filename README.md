@@ -14,9 +14,10 @@ I am a passionate Software Engineer dedicated to driving team success through in
 Here are some of the projects I've worked on:
 - **The React Quiz App**: (useReducer,useEffect). [The React Quiz App](https://ahmedrefaat00ar-the-react-quiz.netlify.app/)
 - **Popcorn**: (useEffect, data fetching, custom hooks). [IMDB Popcorn](https://classy-weather.netlify.app/)
-- **Menu Prototype**: (Components, props, JSX). [Link](https://peaceful-monstera-636770.netlify.app/)
+- **Weather App**: (useEffect, useState). [Link](https://usepopcorn.netlify.app/)
+- **Atomic Blog**: (useEffect, useState, useContext). [Link](https://ahmedrefaat00aratomic-blog-app.netlify.app)
 - **Far Away Packing List Application**: (useState and state management). [Link](https://todo-list-app00ahmedrefaat.netlify.app)
-- **Weather App**: (useEffect, useState). [Link](https://bright-malabi-83c37f.netlify.app/)
+- **Menu Prototype**: (Components, props, JSX). [Link](https://peaceful-monstera-636770.netlify.app/)
 
 ## 🛠️ Languages and Tools
 <p align="left">
