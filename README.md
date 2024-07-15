@@ -12,6 +12,7 @@ I am a passionate Software Engineer dedicated to driving team success through in
 
 ## 💻 Projects
 Here are some of the projects I've worked on:
+- **WorldWise App**: (useReducer,useEffect, React Router, context API, useReducer, useNavegate). [WorldWise App](https://ahmedrefaat00worldwise.netlify.app/)
 - **The React Quiz App**: (useReducer,useEffect). [The React Quiz App](https://ahmedrefaat00ar-the-react-quiz.netlify.app/)
 - **Popcorn App**: (useEffect, useState). [Link](https://usepopcorn.netlify.app/)
 - **Weather App**: (useEffect, data fetching, custom hooks). [IMDB Popcorn](https://classy-weather.netlify.app/)
