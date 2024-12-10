@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I am a passionate Software Engineer dedicated to driving team success through innovation and collaboration. With a meticulous attention to detail and exceptional organizational skills, I excel in designing, developing, testing, and maintaining robust software solutions. My comprehensive understanding of software engineering principles enables me to tackle complex challenges and deliver high-quality results. I am highly motivated to lead projects, continually grow my skill set, and make a significant impact in the tech industry.
+A proactive and detail-oriented ReactJS Frontend Developer with a strong foundation in web development and UI/UX design, seeking to leverage my expertise in building responsive, user-friendly web applications and integrating APIs to deliver exceptional user experiences. Passionate about creating accessible and optimized digital solutions, I aim to contribute to innovative projects within a dynamic team, driving impactful technological advancements.
 
 - 👨‍💻 All of my projects are available on my [GitHub Account](https://github.com/AhmedRefaat00)
 - 📫 You can reach me at **ahmedrefaat00ar@gmail.com**
