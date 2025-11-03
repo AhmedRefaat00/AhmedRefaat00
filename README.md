@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Ahmed Refaat, a Full-Stack & Cross-Platform Developer with hands-on experience building responsive, high-performance web and mobile applications. I specialize in React.js, Next.js, React Native, and Laravel, with solid knowledge of Node.js, Express.js, MongoDB, and Firebase.</h1>
+<h1 align="center">👋 Hello World! I'm Ahmed Refaat, a Full-Stack & Cross-Platform Developer, specialize in React.js, Next.js, React Native, and Laravel, with solid knowledge of Node.js, Express.js, MongoDB, and Firebase.</h1>
 <h3 align="center">Developed by Egyptian hands 🇪🇬</h3>
 <p align="center">𓅓𓅊𓃠𓃣𓆣𓆙𓁈𓄂𓅔𓅃𓁳𓃦𓃰𓆈𓀮𓃢𓀏𓃮𓆏𓄀𓃬𓃵𓆋𓁹𓃹𓂉𓅻𓃹𓅪𓃦𓂀𓋹𓆣𓆃𓃥𓅜𓆓𓅟𓏊𓆘𓅫𓁹𓅩𓅐𓆌𓃬𓃬𓆉𓅓𓅊𓃠𓃣𓆣𓆙𓁈𓄂𓅔𓅃𓁳𓃦𓃰𓆈𓀮𓃢𓀏𓃮𓆏𓄀𓃬𓃵𓆋𓁹𓃹𓂉𓅻𓃹𓅪𓃦</p>
 
